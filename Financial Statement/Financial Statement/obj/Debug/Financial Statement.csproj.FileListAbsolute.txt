@@ -1,0 +1,11 @@
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial Statement.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial_Statement.Form1.resources
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial_Statement.Properties.Resources.resources
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial Statement.csproj.GenerateResource.Cache
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\bin\Debug\Financial Statement.exe.config
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\bin\Debug\Financial Statement.exe
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\bin\Debug\Financial Statement.pdb
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial Statement.exe
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial Statement.pdb
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial_Statement.Form2.resources
+C:\Users\Desmond\Desktop\Financial Project\Financial Statement\Financial Statement\obj\Debug\Financial_Statement.overall.resources
